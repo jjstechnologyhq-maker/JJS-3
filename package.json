@@ -1,6 +1,0 @@
-{
-  "name": "jjs-currency",
-  "version": "1.0.0",
-  "scripts": { "build": "echo built" },
-  "engines": { "node": "20.x" }
-}
